@@ -25,9 +25,7 @@ Este projeto é uma aplicação CRUD completa usando MongoDB e Streamlit, com da
 ├── requirements.txt
 └── README.md
 
-yaml
-Copiar
-Editar
+
 
 ---
 
